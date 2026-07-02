@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi 👋 I'm Ayesha Zafar
 
-🚀 AI & Machine Learning Engineer
+🚀 AI & Machine Learning Developer
 
 💻 Python Developer
 
@@ -10,6 +10,22 @@
 ☁️ AWS & DevOps Enthusiast
 
 🌱 Currently building AI-powered applications and scalable cloud solutions.
+
+
+## 🚀 Currently Building
+
+🐳 Docker & Kubernetes
+
+☁️ AWS & DevOps Skills
+
+🤖 AI-Powered Applications
+
+📊 Data Analytics Dashboards
+
+💻 Real-world Python Projects
+
+🌐 AI Opportunity Hub (Coming Soon)
+
 
 ## 🌐 Socials:
 LINKIDIN    https://www.linkedin.com/in/ayesha-zafar-083741358/
@@ -30,11 +46,7 @@ GITHUB      https://github.com/AyeshaZafarrr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayesha Zafarrr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Ayesha Zafarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
