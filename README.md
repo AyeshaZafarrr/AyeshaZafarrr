@@ -2,31 +2,46 @@
 # Hi 👋 I'm Ayesha Zafar
 
 🚀 AI & Machine Learning Developer
+
 💻 Python Developer
+
 📊 Data Analytics Enthusiast
+
 ☁️ AWS Cloud | DevOps Learner
 
 🌱 Passionate about building AI-powered applications, data-driven solutions, and scalable cloud systems.
+
 ✨ Turning ideas into intelligent AI solutions and continuously learning cloud technologies.
 
 🎯 Current Learning Journey
+
 ✅ AWS Cloud Computing (Completed)
+
 🔄 Docker (In Progress)
+
 🔄 Kubernetes (Starting Soon)
+
 🔄 DevOps Engineering Roadmap
+
 🤖 AI & Machine Learning Projects
+
 📊 Data Analytics & Visualization
+
 🚀 AI Opportunity Hub (Coming Soon)
 
 💼 Experience
 
 • Junior Software Development Intern (Current)
+
 • Machine Learning Intern (Remote)
+
 • Open to AI, Machine Learning, Python & DevOps Opportunities
 
 ## 🌐 Socials:
 LINKIDIN    https://www.linkedin.com/in/ayesha-zafar-083741358/
+
 EMAIL       ayeshazafarsadi123@gmail.com
+
 GITHUB      https://github.com/AyeshaZafarrr
 
 
@@ -40,8 +55,9 @@ GITHUB      https://github.com/AyeshaZafarrr
 - 📄 AI Resume Analyzer
 - 📩 SMS Spam Classifier
 - 🚀 AI Opportunity Hub (Coming Soon)
+  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayesha Zafarrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=AyeshaZafarrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AyeshaZafarrr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyeshaZafarrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -55,4 +71,4 @@ GITHUB      https://github.com/AyeshaZafarrr
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
