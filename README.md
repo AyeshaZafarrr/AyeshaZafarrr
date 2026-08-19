@@ -54,7 +54,7 @@ GITHUB      https://github.com/AyeshaZafarrr
 - ❤️ Heart Disease Prediction
 - 📄 AI Resume Analyzer
 - 📩 SMS Spam Classifier
-- 🚀 AI Opportunity Hub (Coming Soon)
+- 🚀 AI-Document-Assistant 
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AyeshaZafarrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
