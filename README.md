@@ -1,68 +1,135 @@
 # 💫 About Me:
-# Hi 👋 I'm Ayesha Zafar
+# 👋 Hi, I'm Ayesha Zafar
 
-🚀 AI & Machine Learning Developer
+### ☁️ Aspiring DevOps Engineer | Cloud, CI/CD & Automation
 
-💻 Python Developer
+### 🤖 AI/ML • Python • Data Analytics
 
-📊 Data Analytics Enthusiast
+I'm a Computer Science student passionate about **cloud technologies, DevOps, automation, and AI-powered applications**.
 
-☁️ AWS Cloud | DevOps Learner
+I enjoy building practical projects and continuously developing my skills across **cloud computing, software development, machine learning, and data analytics**.
 
-🌱 Passionate about building AI-powered applications, data-driven solutions, and scalable cloud systems.
+---
 
-✨ Turning ideas into intelligent AI solutions and continuously learning cloud technologies.
+## 🎯 Current Learning Journey
 
-🎯 Current Learning Journey
+* ✅ **AWS Cloud Computing**
+* 🔄 **Docker**
+* 🔄 **Kubernetes**
+* 🔄 **CI/CD & Automation**
+* 🔄 **DevOps Engineering**
+* 🔄 **AI/ML & Data Analytics**
 
-✅ AWS Cloud Computing (Completed)
+---
 
-🔄 Docker (In Progress)
+## 🛠️ Tech Stack
 
-🔄 Kubernetes (Starting Soon)
+### ☁️ Cloud & Development
 
-🔄 DevOps Engineering Roadmap
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-🤖 AI & Machine Learning Projects
+### 📊 Data & Machine Learning
 
-📊 Data Analytics & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-🚀 AI Opportunity Hub (Coming Soon)
+---
 
-💼 Experience
+## 📚 Currently Learning
 
-• Junior Software Development Intern (Current)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
-• Machine Learning Intern (Remote)
+* 🐳 Docker & Containerization
+* ☸️ Kubernetes
+* ⚙️ CI/CD Pipelines
+* 🚀 DevOps & Automation
 
-• Open to AI, Machine Learning, Python & DevOps Opportunities
+---
 
-## 🌐 Socials:
-LINKIDIN    https://www.linkedin.com/in/ayesha-zafar-083741358/
+## 🚀 Featured Projects
 
-EMAIL       ayeshazafarsadi123@gmail.com
+### 📄 AI Document Assistant
 
-GITHUB      https://github.com/AyeshaZafarrr
+RAG-based PDF chatbot built with **LangChain, FAISS, HuggingFace Embeddings, Groq and Streamlit**.
 
+### 🤖 SkillForge AI
 
-# 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+AI-powered career guidance platform for **skill analysis, resume improvement, and personalized learning roadmaps**.
 
- ## 🚀 Featured Projects
+### 🧠 BERT News Topic Classifier
 
-- 📈 Stock Price Prediction
-- ❤️ Heart Disease Prediction
-- 📄 AI Resume Analyzer
-- 📩 SMS Spam Classifier
-- 🚀 AI-Document-Assistant 
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AyeshaZafarrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AyeshaZafarrr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyeshaZafarrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Fine-tuned **BERT Transformer** for news topic classification with an interactive Streamlit dashboard.
 
+### 📊 Resume Analyzer
 
+Streamlit application that analyzes resumes and visualizes **skills, education, and experience**.
 
+### 📩 SMS Spam Classifier
+
+Machine learning and NLP project for detecting spam messages.
+
+---
+
+## 💼 Experience
+
+* **Junior Software Development Intern**
+* **Machine Learning Intern (Remote)**
+* **Data Analytics Intern**
+
+---
+
+## 📊 Data Analytics
+
+Hands-on experience with:
+
+* SQL & MySQL
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+* Microsoft Excel
+* Python Data Analysis
+
+---
+
+## 🌱 What's Next?
+
+Currently focused on becoming a **DevOps Engineer** by building hands-on experience with:
+
+**AWS → Docker → Kubernetes → CI/CD → Automation**
+
+while continuing to develop my skills in **AI/ML and data-driven solutions**.
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 **LinkedIn:** [Ayesha Zafar](https://www.linkedin.com/in/ayesha-zafar-083741358/)
+* 📧 **Email:** [ayeshazafarsadi123@gmail.com](mailto:ayeshazafarsadi123@gmail.com)
+* 💻 **GitHub:** [AyeshaZafarrr](https://github.com/AyeshaZafarrr)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=AyeshaZafarrr\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=AyeshaZafarrr\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyeshaZafarrr\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+### ✨ Always Learning. Always Building. Always Improving.
 
 
 
